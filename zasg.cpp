@@ -101,7 +101,7 @@ int bedroom(){
 
 	if(visited_bedroom == 0){
 
-                cout << "/nI am in The Bedroom.\nZombies Killed = " << zombies_killed << endl << endl;
+                cout << "\nI am in The Bedroom.\nZombies Killed = " << zombies_killed << endl << endl;
 		cout << "Its dimly lit and pictures of my once happy and alive family hang on the walls. No time to regret now. I feel like something is staring at me";
 		cout << " from the cabinet.\n";
         	cout << "\nI can:\n";
