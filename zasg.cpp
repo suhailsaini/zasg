@@ -1,14 +1,3 @@
-/* Suhail Saini
-Section 04
-10/01/2021
-Assignment 5 */
-
-//added rooms with actions to perform
-//does indicate in which room you are and can move through rooms 
-//main function has switch function for other rooms
-//some things change when you pick an item and return back to the room next time
-//added a variable that changes with the number of zombies you kill. Visible when player changes room and at the end of the game.
-
 #include<iostream>
 using namespace std;
 
