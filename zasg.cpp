@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//-------FUNCTIONS & VARIABLES--------
+//--------FUNCTIONS & VARIABLES---------
 
 int balcony();
 int bedroom();
